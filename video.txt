@@ -1,0 +1,9 @@
+!  -----update:  2017-10-08 16:35:50   by:xwhyc-----------------------------------------------
+!---------adbyby---------
+!|http://bbs.kafan.cn/$s@</head>@</head><script>document.cookie="r6pb_69df_widthauto=1;domain=kafan.cn";</script>@
+!www.baidu.com,news.baidu.com###content_right,[srcid="6835"],[class="result-op xpath-log"]
+!www.baidu.com,news.baidu.com###content_left,.c-container,.result{width:860px}.c-span-last{width:720px}
+!|http://ad.api.3g.youku.com/adv^
+!|http://ad.api.3g.tudou.com/adv^
+|http://ad.*.youku.com
+|http://ad.*.tudou.com
